@@ -133,10 +133,6 @@ urlpatterns = [
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
-
-## 💡 Author
-
-**[Your Name]**  
+ 
 📧 [your.email@example.com]  
 🌐 [your-portfolio-or-linkedin](https://www.linkedin.com/in/your-profile)
