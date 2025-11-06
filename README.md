@@ -35,8 +35,8 @@ django_project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/django-hello-world.git
-cd django-hello-world
+git clone https://github.com/gatwirival/Django-HelloWorld.git
+cd Django-HelloWorld
 ```
 
 ### 2. Create and activate a virtual environment
